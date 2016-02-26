@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int max (float a, float b)
-
 {
   if (a > b) {
     return a;
